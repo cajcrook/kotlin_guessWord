@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GuessWord</string>
+    <string name="word1">word1</string>
+    <string name="word2">word2</string>
+    <string name="word3">word3</string>
+    <string name="word4">word4</string>
+    <string name="word5">word5</string>
+</resources>
