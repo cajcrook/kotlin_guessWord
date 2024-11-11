@@ -69,7 +69,6 @@ fun App(wordViewModel: WordViewModel = viewModel()) {
     }
 }
 
-
 fun getDisplayWord(word: String, revealedIndices: List<Int>): String {
     return word.mapIndexed { index, char ->
         if (index in revealedIndices) char.toString() else "_"
